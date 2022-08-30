@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988707520441",
+    "project_id": "ridesharingapp-16afa",
+    "storage_bucket": "ridesharingapp-16afa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988707520441:android:22e4c4a227cfba51138068",
+        "android_client_info": {
+          "package_name": "com.mindorks.ridesharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988707520441-3bjtil5ml2kqdb76cepgab1i3u26banv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy5g4GchukYSDpOj4Mfwe3fpIKOH84brI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988707520441-3bjtil5ml2kqdb76cepgab1i3u26banv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
