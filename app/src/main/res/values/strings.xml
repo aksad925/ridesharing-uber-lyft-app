@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RideSharing</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="where_to">where to?</string>
+    <string name="pickup_location">pickup Location</string>
+    <string name="requesting_your_cab">requesting your cab</string>
+    <string name="request_cab">Request cab</string>
+    <string name="take_next_ride">Take next ride</string>
 </resources>

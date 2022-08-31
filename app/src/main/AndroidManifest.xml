@@ -3,7 +3,7 @@
     package="com.mindorks.ridesharing">
 
     <uses-permission android:name="android.permission.INTERNET" />
-
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
@@ -22,7 +22,8 @@
         <activity
             android:name=".ui.maps.MapsActivity"
             android:label="@string/app_name"
-            android:theme="@style/MapsTheme">
+            android:theme="@style/MapsTheme"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
